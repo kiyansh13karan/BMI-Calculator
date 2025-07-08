@@ -2,7 +2,7 @@
 
 A beautiful, responsive Body Mass Index (BMI) calculator with a serene yoga-themed interface. This web application allows users to calculate their BMI quickly and provides instant feedback on their health status.
 
-![BMI Calculator Interface](![Image](https://github.com/user-attachments/assets/9da9f8e2-7f7c-4899-bab2-080b5ac579b8))
+![BMI Calculator Interface]<img width="1920" height="1200" alt="Image" src="https://github.com/user-attachments/assets/6cf4e1c2-294b-43a5-8eb6-44dae2fdf1a7" />
 
 ## 🌟 Features
 
